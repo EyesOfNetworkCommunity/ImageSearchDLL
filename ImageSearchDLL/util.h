@@ -1,4 +1,10 @@
 /*
+Copyright 2015 Michael Aubertin <michael.aubertin@gmail.com>
+ImageSearchDLL modified for EON4APPS.
+
+Massevely based on exelent work of Chris Mallet. Thank's to him :)
+
+
 AutoHotkey
 
 Copyright 2003-2007 Chris Mallett (support@autohotkey.com)
